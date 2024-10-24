@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goudurixx" alt="goudurixx" /></a> </p>
 
-- 🔭 I’m currently working on a Jetpack Compose application [Pokedex-JC](https://github.com/Goudurixx/pokedex-JC)
+- 🔭 I’m currently working on a Chat app to interact with HugginFace's LLM in Compose application [Hugging Chat](https://github.com/Goudurixx/Hugging_Chat)
 
 - 🤝 I’m looking for help with **MapLibre integration**
 
