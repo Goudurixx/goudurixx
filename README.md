@@ -12,7 +12,7 @@ Technical lead at **Alta Ares**, a defense-tech startup building counter-UAS int
 
 - Lead a team of 6 and own the Ground Control Station from R&D to production.
 - Shipped 3 command-and-control (C2) integration bridges from scratch in 5 months, each against a live customer demo.
-- Edge AI in the field: TensorRT/CUDA inference on Jetson Orin, and on Raspberry Pi; ~5 months on customer sites in Ukraine, the UAE and France.
+- Edge AI in the field: TensorRT/CUDA inference on Jetson Orin, and on Raspberry Pi; ~5 months field-deployed across international operational and maritime environments.
 
 ## Before
 
