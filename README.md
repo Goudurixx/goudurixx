@@ -11,12 +11,12 @@
 Technical lead at **Alta Ares**, a defense-tech startup building counter-UAS interceptor drones and their Ground Control Station.
 
 - Lead a team of 6 and own the Ground Control Station from R&D to production.
-- Shipped 3 command-and-control integration bridges from scratch in 5 months: **a C2 system**, **a C2 system** and **a C2 system**.
-- Edge AI in the field: TensorRT/CUDA inference on Jetson Orin; ~5 months on customer sites in Ukraine, the UAE and France.
+- Shipped 3 command-and-control (C2) integration bridges from scratch in 5 months, each against a live customer demo.
+- Edge AI in the field: TensorRT/CUDA inference on Jetson Orin, and on Raspberry Pi; ~5 months on customer sites in Ukraine, the UAE and France.
 
 ## Before
 
-- **Netatmo** (Legrand group): Android engineer on Home + Security. AI-vision alerts (person / vehicle / animal), a design system shared across 4 brands.
+- **Netatmo** (Legrand group): Android engineer. Led the full Jetpack Compose rebuild of [VELUX ACTIVE](https://play.google.com/store/apps/details?id=com.velux.active), AI-vision alerts (person / vehicle / animal) on Home + Security, and a design system shared across 4 brands.
 - **Allergenius**: sole engineer, launched the app: on-device allergen detection from scanned labels.
 - **K-ciopé**: *Ma Métropole Dans Ma Poche*, the app of the Aix-Marseille-Provence metropolis (2M+ residents), from first commit to release.
 
@@ -58,6 +58,6 @@ More (prototypes, templates, coursework) on [goudurixx.technology](https://goudu
 
 ## Toolbox
 
-Kotlin · Python · C/C++ · Jetson Orin / TensorRT · MAVLink / ArduPilot · C2 integration · CoT / C2 · Jetpack Compose · Embedded Linux
+Kotlin · Python · C/C++ · Jetson Orin / TensorRT · Raspberry Pi · MAVLink / ArduPilot · C2 integration · Jetpack Compose · Embedded Linux
 
 French (native) · English (fluent) · Spanish (professional) · Ukrainian (conversational)
